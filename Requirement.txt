@@ -1,0 +1,14 @@
+## Requirements
+
+To run this project, make sure the following libraries are installed:
+
+* Python 3.x
+* Pandas
+* NumPy
+* Matplotlib
+* Seaborn
+* Jupyter Notebook
+
+Install all dependencies using:
+
+pip install pandas numpy matplotlib seaborn jupyter
